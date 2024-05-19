@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Добавил решение заданий № 7 по MYSQL" />
+    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Обновил решение заданий № 8 по MYSQL" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716107017234</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавил решение заданий № 8 по MYSQL">
+      <option name="closed" value="true" />
+      <created>1716123291200</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716123291200</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Обновил решение заданий № 8 по MYSQL">
+      <option name="closed" value="true" />
+      <created>1716139140837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1716139140837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +151,8 @@
     <MESSAGE value="Добавил решение задания № 2 по Linux." />
     <MESSAGE value="Добавил решение заданий № 3, 4, 5 по Linux." />
     <MESSAGE value="Добавил решение заданий № 7 по MYSQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил решение заданий № 7 по MYSQL" />
+    <MESSAGE value="Добавил решение заданий № 8 по MYSQL" />
+    <MESSAGE value="Обновил решение заданий № 8 по MYSQL" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение заданий № 8 по MYSQL" />
   </component>
 </project>
