@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Обновил решение заданий № 9-12 по MYSQL">
-      <change afterPath="$PROJECT_DIR$/files/sql.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UI/UI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controller/AnimalController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/entities/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/AnimalCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/AnimalList.java" afterDir="false" />
+    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Обновил решение заданий по JAVA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/kostu/IdeaProjects/gb-final-task/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/kostu/IdeaProjects/gb-final-task/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kostu\IdeaProjects\gb-final-task\src\controller" />
@@ -179,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716222576836</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Обновил решение заданий по JAVA">
+      <option name="closed" value="true" />
+      <created>1716228716864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1716228716864</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +203,7 @@
     <MESSAGE value="Добавил решение заданий № 8 по MYSQL" />
     <MESSAGE value="Обновил решение заданий № 8 по MYSQL" />
     <MESSAGE value="Обновил решение заданий № 9-12 по MYSQL" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение заданий № 9-12 по MYSQL" />
+    <MESSAGE value="Обновил решение заданий по JAVA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение заданий по JAVA" />
   </component>
 </project>

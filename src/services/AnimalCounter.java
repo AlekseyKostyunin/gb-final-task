@@ -12,7 +12,5 @@ public class AnimalCounter implements AutoCloseable{
     }
 
     @Override
-    public void close() throws Exception {
-
-    }
+    public void close() throws Exception {  }
 }

@@ -67,10 +67,6 @@ public class AnimalController {
         }
     }
 
-    /**
-     * Отобразить список команд животного
-     * @param animal
-     */
     private void showCommands(ANIMALS animal){
         String name = ui.getString("Имя животного: ");
 
@@ -103,10 +99,6 @@ public class AnimalController {
         Logger.getAnonymousLogger().info(strCommands.toString());
     }
 
-    /**
-     * Отображение списка животных
-     * @param animal
-     */
     private void showAnimals(ANIMALS animal){
         List<Object> animals = null;
 
@@ -122,10 +114,6 @@ public class AnimalController {
         }
     }
 
-    /**
-     * Добавление команды
-     * @param animal
-     */
     private void addCommand(ANIMALS animal){
         String name = ui.getString("Имя животного: ");
         Object objAnimal = null;
@@ -150,17 +138,11 @@ public class AnimalController {
 
     }
 
-    /**
-     * Добавленеи нового животного
-     * @param animal - вид добавляемого животного
-     */
     private void addAnimal(ANIMALS animal) throws Exception {
         // Счетчик
         try(AnimalCounter counter = new AnimalCounter()){
             counter.add();
         }
-
-
         String name = ui.getString("Имя животного: ");
         String color = ui.getString("Окрас: ");
         String date = ui.getString("Дата рождения: ");
@@ -182,19 +164,12 @@ public class AnimalController {
         }
     }
 
-    /**
-     * Выбор операции в меню программы
-     *
-     * @return
-     */
     private String getOperation() {
         String menu = ui.menuShow(menuMain);
         if (!menu.isEmpty() && !menu.equals("0") && !menu.equals("5")) {
             menu += ui.menuShow(menuAnimal);
         }
-
         return menu;
     }
-
 
 }
