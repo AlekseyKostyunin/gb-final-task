@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Обновил решение заданий по JAVA">
-      <change afterPath="$PROJECT_DIR$/files/diagramma.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/diagramma.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/history.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="3871a7e5-b593-48fa-91c3-e9fd21dd4e1e" name="Changes" comment="Добавил диаграмму классов" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716400348849</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Добавил диаграмму классов">
+      <option name="closed" value="true" />
+      <created>1716651913953</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1716651913953</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,6 +228,7 @@
     <MESSAGE value="Обновил решение заданий № 8 по MYSQL" />
     <MESSAGE value="Обновил решение заданий № 9-12 по MYSQL" />
     <MESSAGE value="Обновил решение заданий по JAVA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение заданий по JAVA" />
+    <MESSAGE value="Добавил диаграмму классов" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил диаграмму классов" />
   </component>
 </project>
